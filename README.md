@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web Development as Mearn Stack Developer
 - 💞️ I’m looking to collaborate on my learning path
 - 📫 How to reach me ...
-- LinkedIn 🔗 https://www.linkedin.com/in/mohamed-ahmed420
+- Email:mhmdabdeldayem40@gmail.com
 
 <!---
 abdeldayem8/abdeldayem8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
