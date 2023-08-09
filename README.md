@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @abdeldayem8
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning WeB Development
+- 👀 I’m interested in WeB Development
+- 🌱 I’m currently learning web Development as Mearn Stack Developer
 - 💞️ I’m looking to collaborate on my learning path
 - 📫 How to reach me ...
+- 
 
 <!---
 abdeldayem8/abdeldayem8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
