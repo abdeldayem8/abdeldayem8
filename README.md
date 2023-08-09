@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdeldayem8
 - 👀 I’m interested in WeB Development
 - 🌱 I’m currently learning web Development as Mearn Stack Developer
-- 💞️ I’m looking to collaborate on my learning path
+- 💞️ I’m looking to collaborate on problem solving Techniques
 - 📫 How to reach me ...
 - Email:mhmdabdeldayem40@gmail.com
 
